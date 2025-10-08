@@ -1,0 +1,1121 @@
+{
+    "studies": [
+        {
+            "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+            "StudyDate": "20251008",
+            "StudyTime": "140813.00",
+            "PatientName": "K DILIP S   ",
+            "PatientID": "NMH013835",
+            "AccessionNumber": "",
+            "PatientAge": "",
+            "PatientSex": "M",
+            "PatientWeight": "89",
+            "PatientHeight": "",
+            "InstitutionName": "NEWMEDD HEALTH MYSORE",
+            "ReferringPhysicianName": "K M DR MADAPPA   ",
+            "RequestingPhysicianName": "",
+            "EthnicGroup": "",
+            "Manufacturer": "GE MEDICAL SYSTEMS",
+            "ManufacturerModelName": "INFINIA",
+            "SoftwareVersions": "2.105.030.18",
+            "MagneticFieldStrength": "",
+            "StudyID": "EC RENOGRAM",
+            "RequestedProcedureID": "",
+            "StudyComments": "",
+            "series": [
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025101740125.7546",
+                    "SeriesNumber": "1",
+                    "Modality": "NM",
+                    "SeriesDate": "20251008",
+                    "SeriesDescription": "DELAYED 2 HR",
+                    "SeriesTime": "154742.00",
+                    "AcquisitionDate": "20251008",
+                    "AcquisitionTime": "154742.00",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 256,
+                                "Rows": 256,
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "2.209800",
+                                    "2.209800"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.265.1.2.0.8102025101740125.7546",
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "STATIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025101739796.7112",
+                                "SeriesInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025101740125.7546",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "4.000000",
+                                "WindowWidth": "8.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 2,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "155304.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056
+                                ],
+                                "ActualFrameDuration": "120000"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.265.1.2.0.8102025101740125.7546/1.2.840.113619.2.265.1.2.0.8102025101739796.7112"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025090417265.25769",
+                    "SeriesNumber": "1",
+                    "Modality": "NM",
+                    "SeriesDate": "20251008",
+                    "SeriesDescription": "EMPTY",
+                    "SeriesTime": "143442.00",
+                    "AcquisitionDate": "20251008",
+                    "AcquisitionTime": "143442.00",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 128,
+                                "Rows": 128,
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "4.419600",
+                                    "4.419600"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.265.1.2.0.8102025090417265.25769",
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "STATIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025090415390.25697",
+                                "SeriesInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025090417265.25769",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "113.500000",
+                                "WindowWidth": "227.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "143556.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056
+                                ],
+                                "ActualFrameDuration": "10000"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.265.1.2.0.8102025090417265.25769/1.2.840.113619.2.265.1.2.0.8102025090415390.25697"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025084055906.21171",
+                    "SeriesNumber": "1",
+                    "Modality": "NM",
+                    "SeriesDate": "20251008",
+                    "SeriesDescription": "FLOW 30 MIN",
+                    "SeriesTime": "141104.00",
+                    "AcquisitionDate": "20251008",
+                    "AcquisitionTime": "141104.00",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 128,
+                                "Rows": 128,
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "3.323008",
+                                    "3.323008"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.265.1.2.0.8102025084055906.21171",
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "DYNAMIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025084055562.21119",
+                                "SeriesInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025084055906.21171",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "28.000000",
+                                "WindowWidth": "56.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 144,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "143556.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056,
+                                    5505072,
+                                    5505280
+                                ],
+                                "PhaseInformationSequence": [
+                                    {
+                                        "(0018,1242)": "2000",
+                                        "(0054,0033)": 30,
+                                        "(0054,0036)": "0",
+                                        "(0054,0038)": "0"
+                                    },
+                                    {
+                                        "(0018,1242)": "30000",
+                                        "(0054,0033)": 42,
+                                        "(0054,0036)": "0",
+                                        "(0054,0038)": "0"
+                                    }
+                                ]
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.265.1.2.0.8102025084055906.21171/1.2.840.113619.2.265.1.2.0.8102025084055562.21119"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083512468.20031",
+                    "SeriesNumber": "1",
+                    "Modality": "NM",
+                    "SeriesDate": "20251008",
+                    "SeriesDescription": "FULL",
+                    "SeriesTime": "140813.00",
+                    "AcquisitionDate": "20251008",
+                    "AcquisitionTime": "140813.00",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 128,
+                                "Rows": 128,
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "4.419600",
+                                    "4.419600"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.265.1.2.0.8102025083512468.20031",
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "STATIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083510500.19986",
+                                "SeriesInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083512468.20031",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "1280.000000",
+                                "WindowWidth": "2560.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "143556.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056
+                                ],
+                                "ActualFrameDuration": "10000"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.265.1.2.0.8102025083512468.20031/1.2.840.113619.2.265.1.2.0.8102025083510500.19986"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025090312859.25547",
+                    "SeriesNumber": "1",
+                    "Modality": "NM",
+                    "SeriesDate": "20251008",
+                    "SeriesDescription": "PREVOID",
+                    "SeriesTime": "143314.00",
+                    "AcquisitionDate": "20251008",
+                    "AcquisitionTime": "143314.00",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 256,
+                                "Rows": 256,
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "1.661504",
+                                    "1.661504"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.265.1.2.0.8102025090312859.25547",
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "STATIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025090310984.25482",
+                                "SeriesInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025090312859.25547",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "7.000000",
+                                "WindowWidth": "14.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "143556.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056
+                                ],
+                                "ActualFrameDuration": "60000"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.265.1.2.0.8102025090312859.25547/1.2.840.113619.2.265.1.2.0.8102025090310984.25482"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                    "SeriesNumber": "3336",
+                    "Modality": "NM",
+                    "SeriesDate": "20251008",
+                    "SeriesDescription": "RenalAnalysis_Results",
+                    "SeriesTime": "152434.00",
+                    "AcquisitionDate": "20251008",
+                    "AcquisitionTime": "140813.00",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 128,
+                                "Rows": 128,
+                                "InstanceNumber": "3348",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "4.419600",
+                                    "4.419600"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "STATIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387643700",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "1280.000000",
+                                "WindowWidth": "2560.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "155307.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056
+                                ],
+                                "ActualFrameDuration": "10000"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387643700"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 128,
+                                "Rows": 128,
+                                "InstanceNumber": "3349",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "4.419600",
+                                    "4.419600"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "STATIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387643701",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "113.500000",
+                                "WindowWidth": "227.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "155307.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056
+                                ],
+                                "ActualFrameDuration": "10000"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387643701"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 128,
+                                "Rows": 128,
+                                "InstanceNumber": "3346",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "3.323008",
+                                    "3.323008"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "DYNAMIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387642103",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "2.500000",
+                                "WindowWidth": "5.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 30,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "155306.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056,
+                                    5505072,
+                                    5505280
+                                ],
+                                "PhaseInformationSequence": [
+                                    {
+                                        "(0018,1242)": "2000",
+                                        "(0054,0033)": 30,
+                                        "(0054,0036)": "0",
+                                        "(0054,0038)": "0"
+                                    }
+                                ]
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387642103"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 128,
+                                "Rows": 128,
+                                "InstanceNumber": "3347",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "3.323008",
+                                    "3.323008"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "DYNAMIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387642104",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "25.000000",
+                                "WindowWidth": "50.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 21,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "155306.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056,
+                                    5505072,
+                                    5505280
+                                ],
+                                "PhaseInformationSequence": [
+                                    {
+                                        "(0018,1242)": "60000",
+                                        "(0054,0033)": 21,
+                                        "(0054,0036)": "0",
+                                        "(0054,0038)": "0"
+                                    }
+                                ]
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387642104"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 128,
+                                "Rows": 128,
+                                "InstanceNumber": "3343",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "3.323008",
+                                    "3.323008"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "DYNAMIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387640600",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "2.500000",
+                                "WindowWidth": "5.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 30,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "155306.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056,
+                                    5505072,
+                                    5505280
+                                ],
+                                "PhaseInformationSequence": [
+                                    {
+                                        "(0018,1242)": "2000",
+                                        "(0054,0033)": 30,
+                                        "(0054,0036)": "0",
+                                        "(0054,0038)": "0"
+                                    }
+                                ]
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387640600"
+                        },
+                        {
+                            "metadata": {
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.9",
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387648400",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387648400"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 128,
+                                "Rows": 128,
+                                "InstanceNumber": "3345",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "3.323008",
+                                    "3.323008"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "DYNAMIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387642102",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "16.000000",
+                                "WindowWidth": "32.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 42,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "155306.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056,
+                                    5505072,
+                                    5505280
+                                ],
+                                "PhaseInformationSequence": [
+                                    {
+                                        "(0018,1242)": "30000",
+                                        "(0054,0033)": 42,
+                                        "(0054,0036)": "0",
+                                        "(0054,0038)": "0"
+                                    }
+                                ]
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387642102"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 128,
+                                "Rows": 128,
+                                "InstanceNumber": "3340",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "3.323008",
+                                    "3.323008"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "DYNAMIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387639000",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "8.000000",
+                                "WindowWidth": "16.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "155305.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056,
+                                    5505072,
+                                    5505280
+                                ],
+                                "PhaseInformationSequence": [
+                                    {
+                                        "(0018,1242)": "30000",
+                                        "(0054,0033)": 1,
+                                        "(0054,0036)": "0",
+                                        "(0054,0038)": "0"
+                                    }
+                                ]
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387639000"
+                        },
+                        {
+                            "metadata": {
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.9",
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387654600",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387654600"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 128,
+                                "Rows": 128,
+                                "InstanceNumber": "3342",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "3.323008",
+                                    "3.323008"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "DYNAMIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387640601",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "9.500000",
+                                "WindowWidth": "19.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "155306.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056,
+                                    5505072,
+                                    5505280
+                                ],
+                                "PhaseInformationSequence": [
+                                    {
+                                        "(0018,1242)": "30000",
+                                        "(0054,0033)": 1,
+                                        "(0054,0036)": "0",
+                                        "(0054,0038)": "0"
+                                    }
+                                ]
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387640601"
+                        },
+                        {
+                            "metadata": {
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.9",
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387659300",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387659300"
+                        },
+                        {
+                            "metadata": {
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.9",
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387651500",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387651500"
+                        },
+                        {
+                            "metadata": {
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.9",
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387653101",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387653101"
+                        },
+                        {
+                            "metadata": {
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.9",
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387653100",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387653100"
+                        },
+                        {
+                            "metadata": {
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.9",
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387643702",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387643702"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 128,
+                                "Rows": 128,
+                                "InstanceNumber": "3341",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "3.323008",
+                                    "3.323008"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "DYNAMIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387640603",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "25.000000",
+                                "WindowWidth": "50.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 22,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "155305.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056,
+                                    5505072,
+                                    5505280
+                                ],
+                                "PhaseInformationSequence": [
+                                    {
+                                        "(0018,1242)": "60000",
+                                        "(0054,0033)": 22,
+                                        "(0054,0036)": "0",
+                                        "(0054,0038)": "0"
+                                    }
+                                ]
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387640603"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 128,
+                                "Rows": 128,
+                                "InstanceNumber": "3338",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "3.323008",
+                                    "3.323008"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "DYNAMIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387640604",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "267.500000",
+                                "WindowWidth": "535.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "155305.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056,
+                                    5505072,
+                                    5505280
+                                ],
+                                "PhaseInformationSequence": [
+                                    {
+                                        "(0018,1242)": "1320000",
+                                        "(0054,0033)": 1,
+                                        "(0054,0036)": "0",
+                                        "(0054,0038)": "0"
+                                    }
+                                ]
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387640604"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 128,
+                                "Rows": 128,
+                                "InstanceNumber": "3337",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "3.323008",
+                                    "3.323008"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "DYNAMIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387642100",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "16.000000",
+                                "WindowWidth": "32.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 72,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "155307.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056,
+                                    5505072,
+                                    5505280
+                                ],
+                                "PhaseInformationSequence": [
+                                    {
+                                        "(0018,1242)": "2000",
+                                        "(0054,0033)": 30,
+                                        "(0054,0036)": "0",
+                                        "(0054,0038)": "0"
+                                    },
+                                    {
+                                        "(0018,1242)": "30000",
+                                        "(0054,0033)": 42,
+                                        "(0054,0036)": "0",
+                                        "(0054,0038)": "0"
+                                    }
+                                ]
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387642100"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 128,
+                                "Rows": 128,
+                                "InstanceNumber": "3339",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "3.323008",
+                                    "3.323008"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "DYNAMIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387640602",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "30.500000",
+                                "WindowWidth": "61.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "155305.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056,
+                                    5505072,
+                                    5505280
+                                ],
+                                "PhaseInformationSequence": [
+                                    {
+                                        "(0018,1242)": "120000",
+                                        "(0054,0033)": 1,
+                                        "(0054,0036)": "0",
+                                        "(0054,0038)": "0"
+                                    }
+                                ]
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387640602"
+                        },
+                        {
+                            "metadata": {
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.9",
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387650000",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387650000"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 128,
+                                "Rows": 128,
+                                "InstanceNumber": "3344",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.20",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 16,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "PixelSpacing": [
+                                    "3.323008",
+                                    "3.323008"
+                                ],
+                                "HighBit": 15,
+                                "FrameOfReferenceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "DYNAMIC",
+                                    "EMISSION"
+                                ],
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387642101",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "WindowCenter": "2.500000",
+                                "WindowWidth": "5.000000",
+                                "SeriesDate": "20251008",
+                                "NumberOfFrames": 30,
+                                "InstanceCreationDate": "20251008",
+                                "InstanceCreationTime": "155306.0000",
+                                "FrameIncrementPointer": [
+                                    5505040,
+                                    5505056,
+                                    5505072,
+                                    5505280
+                                ],
+                                "PhaseInformationSequence": [
+                                    {
+                                        "(0018,1242)": "2000",
+                                        "(0054,0033)": 30,
+                                        "(0054,0036)": "0",
+                                        "(0054,0038)": "0"
+                                    }
+                                ]
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387642101"
+                        },
+                        {
+                            "metadata": {
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.9",
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387657800",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387657800"
+                        },
+                        {
+                            "metadata": {
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.9",
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387645300",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387645300"
+                        },
+                        {
+                            "metadata": {
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.9",
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387657801",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387657801"
+                        },
+                        {
+                            "metadata": {
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.9",
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387646801",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387646801"
+                        },
+                        {
+                            "metadata": {
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.9",
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387660900",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387660900"
+                        },
+                        {
+                            "metadata": {
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.9",
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387646800",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387646800"
+                        },
+                        {
+                            "metadata": {
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.9",
+                                "Modality": "NM",
+                                "SOPInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387656200",
+                                "SeriesInstanceUID": "1.2.840.113619.2.281.3302.10101072.1759917274.387625000",
+                                "StudyInstanceUID": "1.2.840.113619.2.265.1.2.0.8102025083422546.19806",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113619.2.265.1.2.0.8102025083422546.19806/1.2.840.113619.2.281.3302.10101072.1759917274.387625000/1.2.840.113619.2.281.3302.10101072.1759917274.387656200"
+                        }
+                    ]
+                }
+            ],
+            "NumInstances": 33,
+            "Modalities": "NM"
+        }
+    ]
+}

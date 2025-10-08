@@ -1,0 +1,105 @@
+{
+    "studies": [
+        {
+            "StudyInstanceUID": "1.2.840.113564.76.215.23.157.92.113.20251008135337598.1015",
+            "StudyDate": "20251008",
+            "StudyTime": "135441",
+            "PatientName": "RATHEESH B G  ",
+            "PatientID": "NMH013833.",
+            "AccessionNumber": "ACCNO000136",
+            "PatientAge": "046Y",
+            "PatientSex": "M",
+            "PatientWeight": "",
+            "PatientHeight": "",
+            "InstitutionName": "NEWMEDD HEALTH",
+            "ReferringPhysicianName": "DR CHANDRIKA",
+            "RequestingPhysicianName": "",
+            "EthnicGroup": "",
+            "Manufacturer": "Carestream Health",
+            "ManufacturerModelName": "Image Suite CR0875",
+            "SoftwareVersions": "3.0",
+            "MagneticFieldStrength": "",
+            "StudyID": "",
+            "RequestedProcedureID": "",
+            "StudyComments": "",
+            "series": [
+                {
+                    "SeriesInstanceUID": "1.2.840.113564.52.165.170.72.30.21144.20251008141051792",
+                    "SeriesNumber": "3",
+                    "Modality": "CR",
+                    "SeriesDate": "20251008",
+                    "SeriesTime": "141051",
+                    "AcquisitionDate": "20251008",
+                    "AcquisitionTime": "141051",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 3592,
+                                "Rows": 3761,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY"
+                                ],
+                                "Modality": "CR",
+                                "SOPInstanceUID": "1.2.840.113564.54.165.170.72.30.21144.20251008141051792",
+                                "SeriesInstanceUID": "1.2.840.113564.52.165.170.72.30.21144.20251008141051792",
+                                "StudyInstanceUID": "1.2.840.113564.76.215.23.157.92.113.20251008135337598.1015",
+                                "WindowCenter": "2048.000000",
+                                "WindowWidth": "4095.000000",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113564.76.215.23.157.92.113.20251008135337598.1015/1.2.840.113564.52.165.170.72.30.21144.20251008141051792/1.2.840.113564.54.165.170.72.30.21144.20251008141051792"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113564.52.165.170.72.30.21144.20251008140535576",
+                    "SeriesNumber": "2",
+                    "Modality": "CR",
+                    "SeriesDate": "20251008",
+                    "SeriesTime": "140535",
+                    "AcquisitionDate": "20251008",
+                    "AcquisitionTime": "140535",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 3812,
+                                "Rows": 3946,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY"
+                                ],
+                                "Modality": "CR",
+                                "SOPInstanceUID": "1.2.840.113564.54.165.170.72.30.21144.20251008140535576",
+                                "SeriesInstanceUID": "1.2.840.113564.52.165.170.72.30.21144.20251008140535576",
+                                "StudyInstanceUID": "1.2.840.113564.76.215.23.157.92.113.20251008135337598.1015",
+                                "WindowCenter": "2048.000000",
+                                "WindowWidth": "4311.000000",
+                                "SeriesDate": "20251008"
+                            },
+                            "url": "/1.2.840.113564.76.215.23.157.92.113.20251008135337598.1015/1.2.840.113564.52.165.170.72.30.21144.20251008140535576/1.2.840.113564.54.165.170.72.30.21144.20251008140535576"
+                        }
+                    ]
+                }
+            ],
+            "NumInstances": 2,
+            "Modalities": "CR"
+        }
+    ]
+}
