@@ -1,0 +1,524 @@
+{
+  "studies": [
+    {
+      "StudyInstanceUID": "1.2.156.112605.66988328401710.251008055555.2.13200.17298",
+      "StudyDate": "20251008",
+      "StudyTime": "112819.000000",
+      "PatientName": "KEMPAMMA",
+      "PatientID": "NMH013816",
+      "AccessionNumber": "",
+      "PatientAge": "086Y",
+      "PatientSex": "F",
+      "PatientWeight": "58",
+      "PatientHeight": "",
+      "InstitutionName": "NEWMEDD HEALTH",
+      "ReferringPhysicianName": "",
+      "RequestingPhysicianName": "",
+      "EthnicGroup": "",
+      "Manufacturer": "UIH",
+      "ManufacturerModelName": "uMI 550",
+      "SoftwareVersions": "R001",
+      "MagneticFieldStrength": "",
+      "StudyID": "6683",
+      "RequestedProcedureID": "",
+      "StudyComments": "",
+      "series": [
+        {
+          "SeriesInstanceUID": "1.2.156.112605.66988328401710.251008055957.3.8280.17469",
+          "SeriesNumber": "201",
+          "Modality": "CT",
+          "SeriesDate": "20251008",
+          "SliceThickness": "1",
+          "SeriesDescription": "Brain Thin",
+          "SeriesTime": "113001.000000",
+          "AcquisitionDate": "20251008",
+          "AcquisitionTime": "113006.365",
+          "instances": [
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": "40",
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 0,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  "0.44921875",
+                  "0.44921875"
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  "1",
+                  "0",
+                  "0",
+                  "0",
+                  "1",
+                  "0"
+                ],
+                "ImagePositionPatient": [
+                  "-114.775391",
+                  "-129.005035",
+                  "-66.3078613"
+                ],
+                "FrameOfReferenceUID": "1.2.156.112605.66988328401710.251008055820.9.8280.75767",
+                "ImageType": [
+                  "ORIGINAL",
+                  "PRIMARY",
+                  "AXIAL",
+                  "HELICAL"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.156.112605.66988328401710.251008060030.4.31148.79806",
+                "SeriesInstanceUID": "1.2.156.112605.66988328401710.251008055957.3.8280.17469",
+                "StudyInstanceUID": "1.2.156.112605.66988328401710.251008055555.2.13200.17298",
+                "WindowCenter": "40",
+                "WindowWidth": "80",
+                "SeriesDate": "20251008",
+                "InstanceCreationDate": "20251008",
+                "InstanceCreationTime": "113019"
+              },
+              "url": "/1.2.156.112605.66988328401710.251008055555.2.13200.17298/1.2.156.112605.66988328401710.251008055957.3.8280.17469/1.2.156.112605.66988328401710.251008060030.4.31148.79806"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": "209",
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 0,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  "0.44921875",
+                  "0.44921875"
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  "1",
+                  "0",
+                  "0",
+                  "0",
+                  "1",
+                  "0"
+                ],
+                "ImagePositionPatient": [
+                  "-114.775391",
+                  "-129.005035",
+                  "18.1921387"
+                ],
+                "FrameOfReferenceUID": "1.2.156.112605.66988328401710.251008055820.9.8280.75767",
+                "ImageType": [
+                  "ORIGINAL",
+                  "PRIMARY",
+                  "AXIAL",
+                  "HELICAL"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.156.112605.66988328401710.251008060040.4.31148.81885",
+                "SeriesInstanceUID": "1.2.156.112605.66988328401710.251008055957.3.8280.17469",
+                "StudyInstanceUID": "1.2.156.112605.66988328401710.251008055555.2.13200.17298",
+                "WindowCenter": "40",
+                "WindowWidth": "80",
+                "SeriesDate": "20251008",
+                "InstanceCreationDate": "20251008",
+                "InstanceCreationTime": "113019"
+              },
+              "url": "/1.2.156.112605.66988328401710.251008055555.2.13200.17298/1.2.156.112605.66988328401710.251008055957.3.8280.17469/1.2.156.112605.66988328401710.251008060040.4.31148.81885"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": "44",
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 0,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  "0.44921875",
+                  "0.44921875"
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  "1",
+                  "0",
+                  "0",
+                  "0",
+                  "1",
+                  "0"
+                ],
+                "ImagePositionPatient": [
+                  "-114.775391",
+                  "-129.005035",
+                  "-64.3078613"
+                ],
+                "FrameOfReferenceUID": "1.2.156.112605.66988328401710.251008055820.9.8280.75767",
+                "ImageType": [
+                  "ORIGINAL",
+                  "PRIMARY",
+                  "AXIAL",
+                  "HELICAL"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.156.112605.66988328401710.251008060030.4.31148.110011",
+                "SeriesInstanceUID": "1.2.156.112605.66988328401710.251008055957.3.8280.17469",
+                "StudyInstanceUID": "1.2.156.112605.66988328401710.251008055555.2.13200.17298",
+                "WindowCenter": "40",
+                "WindowWidth": "80",
+                "SeriesDate": "20251008",
+                "InstanceCreationDate": "20251008",
+                "InstanceCreationTime": "113019"
+              },
+              "url": "/1.2.156.112605.66988328401710.251008055555.2.13200.17298/1.2.156.112605.66988328401710.251008055957.3.8280.17469/1.2.156.112605.66988328401710.251008060030.4.31148.110011"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": "301",
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 0,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  "0.44921875",
+                  "0.44921875"
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  "1",
+                  "0",
+                  "0",
+                  "0",
+                  "1",
+                  "0"
+                ],
+                "ImagePositionPatient": [
+                  "-114.775391",
+                  "-129.005035",
+                  "64.1921387"
+                ],
+                "FrameOfReferenceUID": "1.2.156.112605.66988328401710.251008055820.9.8280.75767",
+                "ImageType": [
+                  "ORIGINAL",
+                  "PRIMARY",
+                  "AXIAL",
+                  "HELICAL"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.156.112605.66988328401710.251008060046.4.31148.100276",
+                "SeriesInstanceUID": "1.2.156.112605.66988328401710.251008055957.3.8280.17469",
+                "StudyInstanceUID": "1.2.156.112605.66988328401710.251008055555.2.13200.17298",
+                "WindowCenter": "40",
+                "WindowWidth": "80",
+                "SeriesDate": "20251008",
+                "InstanceCreationDate": "20251008",
+                "InstanceCreationTime": "113019"
+              },
+              "url": "/1.2.156.112605.66988328401710.251008055555.2.13200.17298/1.2.156.112605.66988328401710.251008055957.3.8280.17469/1.2.156.112605.66988328401710.251008060046.4.31148.100276"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": "252",
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 0,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  "0.44921875",
+                  "0.44921875"
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  "1",
+                  "0",
+                  "0",
+                  "0",
+                  "1",
+                  "0"
+                ],
+                "ImagePositionPatient": [
+                  "-114.775391",
+                  "-129.005035",
+                  "39.6921387"
+                ],
+                "FrameOfReferenceUID": "1.2.156.112605.66988328401710.251008055820.9.8280.75767",
+                "ImageType": [
+                  "ORIGINAL",
+                  "PRIMARY",
+                  "AXIAL",
+                  "HELICAL"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.156.112605.66988328401710.251008060043.4.31148.30747",
+                "SeriesInstanceUID": "1.2.156.112605.66988328401710.251008055957.3.8280.17469",
+                "StudyInstanceUID": "1.2.156.112605.66988328401710.251008055555.2.13200.17298",
+                "WindowCenter": "40",
+                "WindowWidth": "80",
+                "SeriesDate": "20251008",
+                "InstanceCreationDate": "20251008",
+                "InstanceCreationTime": "113019"
+              },
+              "url": "/1.2.156.112605.66988328401710.251008055555.2.13200.17298/1.2.156.112605.66988328401710.251008055957.3.8280.17469/1.2.156.112605.66988328401710.251008060043.4.31148.30747"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": "65",
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 0,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  "0.44921875",
+                  "0.44921875"
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  "1",
+                  "0",
+                  "0",
+                  "0",
+                  "1",
+                  "0"
+                ],
+                "ImagePositionPatient": [
+                  "-114.775391",
+                  "-129.005035",
+                  "-53.8078613"
+                ],
+                "FrameOfReferenceUID": "1.2.156.112605.66988328401710.251008055820.9.8280.75767",
+                "ImageType": [
+                  "ORIGINAL",
+                  "PRIMARY",
+                  "AXIAL",
+                  "HELICAL"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.156.112605.66988328401710.251008060031.4.31148.144240",
+                "SeriesInstanceUID": "1.2.156.112605.66988328401710.251008055957.3.8280.17469",
+                "StudyInstanceUID": "1.2.156.112605.66988328401710.251008055555.2.13200.17298",
+                "WindowCenter": "40",
+                "WindowWidth": "80",
+                "SeriesDate": "20251008",
+                "InstanceCreationDate": "20251008",
+                "InstanceCreationTime": "113019"
+              },
+              "url": "/1.2.156.112605.66988328401710.251008055555.2.13200.17298/1.2.156.112605.66988328401710.251008055957.3.8280.17469/1.2.156.112605.66988328401710.251008060031.4.31148.144240"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": "372",
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 0,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  "0.44921875",
+                  "0.44921875"
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  "1",
+                  "0",
+                  "0",
+                  "0",
+                  "1",
+                  "0"
+                ],
+                "ImagePositionPatient": [
+                  "-114.775391",
+                  "-129.005035",
+                  "99.6921387"
+                ],
+                "FrameOfReferenceUID": "1.2.156.112605.66988328401710.251008055820.9.8280.75767",
+                "ImageType": [
+                  "ORIGINAL",
+                  "PRIMARY",
+                  "AXIAL",
+                  "HELICAL"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.156.112605.66988328401710.251008060049.4.31148.178765",
+                "SeriesInstanceUID": "1.2.156.112605.66988328401710.251008055957.3.8280.17469",
+                "StudyInstanceUID": "1.2.156.112605.66988328401710.251008055555.2.13200.17298",
+                "WindowCenter": "40",
+                "WindowWidth": "80",
+                "SeriesDate": "20251008",
+                "InstanceCreationDate": "20251008",
+                "InstanceCreationTime": "113019"
+              },
+              "url": "/1.2.156.112605.66988328401710.251008055555.2.13200.17298/1.2.156.112605.66988328401710.251008055957.3.8280.17469/1.2.156.112605.66988328401710.251008060049.4.31148.178765"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": "37",
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 0,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  "0.44921875",
+                  "0.44921875"
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  "1",
+                  "0",
+                  "0",
+                  "0",
+                  "1",
+                  "0"
+                ],
+                "ImagePositionPatient": [
+                  "-114.775391",
+                  "-129.005035",
+                  "-67.8078613"
+                ],
+                "FrameOfReferenceUID": "1.2.156.112605.66988328401710.251008055820.9.8280.75767",
+                "ImageType": [
+                  "ORIGINAL",
+                  "PRIMARY",
+                  "AXIAL",
+                  "HELICAL"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.156.112605.66988328401710.251008060030.4.31148.49655",
+                "SeriesInstanceUID": "1.2.156.112605.66988328401710.251008055957.3.8280.17469",
+                "StudyInstanceUID": "1.2.156.112605.66988328401710.251008055555.2.13200.17298",
+                "WindowCenter": "40",
+                "WindowWidth": "80",
+                "SeriesDate": "20251008",
+                "InstanceCreationDate": "20251008",
+                "InstanceCreationTime": "113019"
+              },
+              "url": "/1.2.156.112605.66988328401710.251008055555.2.13200.17298/1.2.156.112605.66988328401710.251008055957.3.8280.17469/1.2.156.112605.66988328401710.251008060030.4.31148.49655"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": "336",
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 0,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  "0.44921875",
+                  "0.44921875"
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  "1",
+                  "0",
+                  "0",
+                  "0",
+                  "1",
+                  "0"
+                ],
+                "ImagePositionPatient": [
+                  "-114.775391",
+                  "-129.005035",
+                  "81.6921387"
+                ],
+                "FrameOfReferenceUID": "1.2.156.112605.66988328401710.251008055820.9.8280.75767",
+                "ImageType": [
+                  "ORIGINAL",
+                  "PRIMARY",
+                  "AXIAL",
+                  "HELICAL"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.156.112605.66988328401710.251008060048.4.31148.35404",
+                "SeriesInstanceUID": "1.2.156.112605.66988328401710.251008055957.3.8280.17469",
+                "StudyInstanceUID": "1.2.156.112605.66988328401710.251008055555.2.13200.17298",
+                "WindowCenter": "40",
+                "WindowWidth": "80",
+                "SeriesDate": "20251008",
+                "InstanceCreationDate": "20251008",
+                "InstanceCreationTime": "113019"
+              },
+              "url": "/1.2.156.112605.66988328401710.251008055555.2.13200.17298/1.2.156.112605.66988328401710.251008055957.3.8280.17469/1.2.156.112605.66988328401710.251008060048.4.31148.35404"
+            },
+            {
+              "metadata": {
+                "Columns": 512,
+                "Rows": 512,
+                "InstanceNumber": "288",
+                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "PhotometricInterpretation": "MONOCHROME2",
+                "BitsAllocated": 16,
+                "BitsStored": 16,
+                "PixelRepresentation": 0,
+                "SamplesPerPixel": 1,
+                "PixelSpacing": [
+                  "0.44921875",
+                  "0.44921875"
+                ],
+                "HighBit": 15,
+                "ImageOrientationPatient": [
+                  "1",
+                  "0",
+                  "0",
+                  "0",
+                  "1",
+                  "0"
+                ],
+                "ImagePositionPatient": [
+                  "-114.775391",
+                  "-129.005035",
+                  "57.6921387"
+                ],
+                "FrameOfReferenceUID": "1.2.156.112605.66988328401710.251008055820.9.8280.75767",
+                "ImageType": [
+                  "ORIGINAL",
+                  "PRIMARY",
+                  "AXIAL",
+                  "HELICAL"
+                ],
+                "Modality": "CT",
+                "SOPInstanceUID": "1.2.156.112605.66988328401710.251008060045.4.31148.156505",
+                "SeriesInstanceUID": "1.2.156.112605.66988328401710.251008055957.3.8280.17469",
+                "StudyInstanceUID": "1.2.156.112605.66988328401710.251008055555.2.13200.17298",
+                "WindowCenter": "40",
+                "WindowWidth": "80",
+                "SeriesDate": "20251008",
+                "InstanceCreationDate": "20251008",
+                "InstanceCreationTime": "113019"
+              },
+              "url": "/1.2.156.112605.66988328401710.251008055555.2.13200.17298/1.2.156.112605.66988328401710.251008055957.3.8280.17469/1.2.156.112605.66988328401710.251008060045.4.31148.156505"
+            }
+          ]
+        }
+      ],
+      "NumInstances": 10,
+      "Modalities": "CT"
+    }
+  ]
+}
