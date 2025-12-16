@@ -1,0 +1,1894 @@
+{
+    "studies": [
+        {
+            "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+            "StudyDate": "20250821",
+            "StudyTime": "105808.000",
+            "PatientName": "Mrs. GANGAM ANUSUUYA 83/F ",
+            "PatientID": "012/RVI219",
+            "AccessionNumber": "",
+            "PatientAge": "",
+            "PatientSex": "F",
+            "PatientWeight": "",
+            "PatientHeight": "",
+            "InstitutionName": "RIVEA VASCULAR INSTITUTE",
+            "ReferringPhysicianName": "",
+            "RequestingPhysicianName": "",
+            "EthnicGroup": "",
+            "Manufacturer": "GE MEDICAL SYSTEMS",
+            "ManufacturerModelName": "DL",
+            "SoftwareVersions": "@(#) DL Application Version: DL_22.5.17",
+            "MagneticFieldStrength": "",
+            "StudyID": "",
+            "RequestedProcedureID": "",
+            "StudyComments": "",
+            "series": [
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.8",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105132.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "113714.411",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 1024,
+                                "Rows": 1024,
+                                "InstanceNumber": "6",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.7",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "SECONDARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756350053.1851.12",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.8",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.8/1.2.840.113619.2.465.33484654072790226709.1756350053.1851.12"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 1024,
+                                "Rows": 1024,
+                                "InstanceNumber": "7",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.7",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "SECONDARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756350053.1851.15",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.8",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.8/1.2.840.113619.2.465.33484654072790226709.1756350053.1851.15"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 1024,
+                                "Rows": 1024,
+                                "InstanceNumber": "8",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.7",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.11",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.8",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.8/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.11"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 1024,
+                                "Rows": 1024,
+                                "InstanceNumber": "3",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.7",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "SECONDARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756350053.1851.3",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.8",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.8/1.2.840.113619.2.465.33484654072790226709.1756350053.1851.3"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 1024,
+                                "Rows": 1024,
+                                "InstanceNumber": "4",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.7",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "SECONDARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756350053.1851.6",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.8",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.8/1.2.840.113619.2.465.33484654072790226709.1756350053.1851.6"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 1024,
+                                "Rows": 1024,
+                                "InstanceNumber": "2",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.7",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "SECONDARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756350053.1851.0",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.8",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.8/1.2.840.113619.2.465.33484654072790226709.1756350053.1851.0"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 1024,
+                                "Rows": 1024,
+                                "InstanceNumber": "5",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.7",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "SECONDARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756350053.1851.9",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.8",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.8/1.2.840.113619.2.465.33484654072790226709.1756350053.1851.9"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-1",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "120117.055",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "24",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.363",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-1",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 79,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.363"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-2",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "112330.289",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "15",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.195",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-2",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 130,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.195"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-3",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "120933.527",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "27",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.396",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-3",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 7,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.396"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-4",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "113027.075",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 1000,
+                                "Rows": 1000,
+                                "InstanceNumber": "17",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.219",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-4",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "592.228",
+                                "WindowWidth": "961.899",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 45,
+                                "FrameIncrementPointer": 1577061
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.219"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-5",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "121053.368",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "29",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.423",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-5",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 36,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.423"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-6",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "113714.411",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 1000,
+                                "Rows": 1000,
+                                "InstanceNumber": "18",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.243",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-6",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "569.204",
+                                "WindowWidth": "915.755",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 46,
+                                "FrameIncrementPointer": 1577061
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.243"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-7",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "121721.705",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 1000,
+                                "Rows": 1000,
+                                "InstanceNumber": "31",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.471",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-7",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "612.101",
+                                "WindowWidth": "994.177",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 41,
+                                "FrameIncrementPointer": 1577061
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.471"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-8",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "121005.191",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "28",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.408",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-8",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 62,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.408"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-9",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "120554.897",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "26",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.378",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-9",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 450,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.378"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-10",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "111730.556",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "14",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.186",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-10",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 92,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.186"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-11",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "111011.976",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "7",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.144",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-11",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 214,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.144"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-12",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "105147.028",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 1000,
+                                "Rows": 1000,
+                                "InstanceNumber": "2",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.66",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-12",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "532.608",
+                                "WindowWidth": "865.063",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 20,
+                                "FrameIncrementPointer": 1577061
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.66"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-13",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "110414.551",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "4",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.117",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-13",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 450,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.117"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-14",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "110541.136",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "5",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.126",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-14",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 450,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.126"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-15",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "105208.591",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 1000,
+                                "Rows": 1000,
+                                "InstanceNumber": "3",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.69",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-15",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "539.563",
+                                "WindowWidth": "876.361",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 19,
+                                "FrameIncrementPointer": 1577061
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.69"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-16",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "115155.045",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "21",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.315",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-16",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 141,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.315"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-17",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "120015.371",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "22",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.351",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-17",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 43,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.351"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-18",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "120046.589",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "23",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.357",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-18",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 195,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.357"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-19",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "111212.935",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "10",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.162",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-19",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 11,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.162"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-20",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "111119.135",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "9",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.153",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-20",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 34,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.153"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-21",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "112342.941",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "16",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.198",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-21",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 50,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.198"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-22",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "110850.834",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "6",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.138",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-22",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 229,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.138"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-23",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "113843.563",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "19",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.249",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-23",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 450,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.249"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-24",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "121750.376",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 1000,
+                                "Rows": 1000,
+                                "InstanceNumber": "32",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.474",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-24",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "613.095",
+                                "WindowWidth": "995.791",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 45,
+                                "FrameIncrementPointer": 1577061
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.474"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-25",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "122009.987",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "33",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.492",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-25",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 55,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.492"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-26",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "114036.774",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "20",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.252",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-26",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 381,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.252"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-27",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "121228.561",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "30",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.435",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-27",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 357,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.435"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-28",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "111405.004",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "11",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.171",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-28",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 6,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.171"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-29",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "120305.467",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 1000,
+                                "Rows": 1000,
+                                "InstanceNumber": "25",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.372",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-29",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "554.468",
+                                "WindowWidth": "900.57",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 28,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.372"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-30",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "111045.963",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "8",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.147",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-30",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 87,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.147"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-31",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "105106.069",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.63",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-31",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 145,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.63"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-32",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "111632.871",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "13",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.183",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-32",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 179,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.183"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-33",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "PERMACATH",
+                    "SeriesTime": "105130.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "111558.503",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "12",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.177",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7-33",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 45,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.7/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.177"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9-1",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "Processed: PERMACATH",
+                    "SeriesTime": "105154.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "113714.411",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 1000,
+                                "Rows": 1000,
+                                "InstanceNumber": "18",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "SECONDARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.244",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9-1",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 46,
+                                "FrameIncrementPointer": 1577061
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.244"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9-2",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "Processed: PERMACATH",
+                    "SeriesTime": "105154.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "113027.075",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 1000,
+                                "Rows": 1000,
+                                "InstanceNumber": "17",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "SECONDARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.220",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9-2",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 45,
+                                "FrameIncrementPointer": 1577061
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.220"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9-3",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "Processed: PERMACATH",
+                    "SeriesTime": "105154.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "105147.028",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 1000,
+                                "Rows": 1000,
+                                "InstanceNumber": "2",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "SECONDARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.67",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9-3",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 20,
+                                "FrameIncrementPointer": 1577061
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.67"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9-4",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "Processed: PERMACATH",
+                    "SeriesTime": "105154.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "105208.591",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 1000,
+                                "Rows": 1000,
+                                "InstanceNumber": "3",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "SECONDARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.70",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9-4",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 19,
+                                "FrameIncrementPointer": 1577061
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.70"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9-5",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "Processed: PERMACATH",
+                    "SeriesTime": "105154.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "121721.705",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 1000,
+                                "Rows": 1000,
+                                "InstanceNumber": "31",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "SECONDARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.472",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9-5",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 41,
+                                "FrameIncrementPointer": 1577061
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.472"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9-6",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "Processed: PERMACATH",
+                    "SeriesTime": "105154.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "121750.376",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 1000,
+                                "Rows": 1000,
+                                "InstanceNumber": "32",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "SECONDARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.475",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9-6",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 45,
+                                "FrameIncrementPointer": 1577061
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.475"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9-7",
+                    "SeriesNumber": "2",
+                    "Modality": "XA",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "Processed: PERMACATH",
+                    "SeriesTime": "105154.000",
+                    "AcquisitionDate": "20250828",
+                    "AcquisitionTime": "120305.467",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 1000,
+                                "Rows": 1000,
+                                "InstanceNumber": "25",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.12.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 7,
+                                "ImageType": [
+                                    "DERIVED",
+                                    "SECONDARY",
+                                    "SINGLE PLANE"
+                                ],
+                                "Modality": "XA",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1849.373",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9-7",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "WindowCenter": "128",
+                                "WindowWidth": "256",
+                                "SeriesDate": "20250828",
+                                "NumberOfFrames": 28,
+                                "FrameIncrementPointer": 1577059
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756349834.1848.9/1.2.840.113619.2.465.33484654072790226709.1756349834.1849.373"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756345281.1845.11",
+                    "SeriesNumber": "991",
+                    "Modality": "SR",
+                    "SeriesDate": "20250828",
+                    "SeriesDescription": "RADIATION DOSE INFORMATION",
+                    "SeriesTime": "124544.000",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.88.67",
+                                "Modality": "SR",
+                                "SOPInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756345281.1845.12",
+                                "SeriesInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1756345281.1845.11",
+                                "StudyInstanceUID": "1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0",
+                                "SeriesDate": "20250828"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.2.840.113619.2.465.33484654072790226709.1755752598.1822.0/1.2.840.113619.2.465.33484654072790226709.1756345281.1845.11/1.2.840.113619.2.465.33484654072790226709.1756345281.1845.12"
+                        }
+                    ]
+                }
+            ],
+            "NumInstances": 48,
+            "Modalities": "SR,XA"
+        }
+    ]
+}
