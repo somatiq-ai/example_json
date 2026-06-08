@@ -1,0 +1,1646 @@
+{
+    "studies": [
+        {
+            "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+            "StudyDate": "20260527",
+            "StudyTime": "163210",
+            "PatientName": "YAMANAPPA",
+            "PatientID": "OT-384",
+            "AccessionNumber": "",
+            "PatientAge": "045Y",
+            "PatientSex": "M",
+            "PatientWeight": "65",
+            "PatientHeight": "",
+            "InstitutionName": "K S HOSPITAL KOPPAL",
+            "ReferringPhysicianName": "DR.PRADEEP KUMAR",
+            "RequestingPhysicianName": "",
+            "EthnicGroup": "",
+            "Manufacturer": "Philips",
+            "ManufacturerModelName": "Achieva dStream",
+            "SoftwareVersions": [
+                "5.7.1",
+                "5.7.1.5"
+            ],
+            "MagneticFieldStrength": "",
+            "StudyID": "822308530",
+            "RequestedProcedureID": "",
+            "StudyComments": "",
+            "series": [
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716322131028",
+                    "SeriesNumber": "0",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "DEFAULT PS SERIES",
+                    "SeriesTime": "163221",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716322131029.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716322131028",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172900.729"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.14040.2026052716322131028/1.3.46.670589.11.21347.5.0.14040.2026052716322131029.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.1468.2026052716421806002",
+                    "SeriesNumber": "304",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesTime": "164218.069",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "0",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.0.1468.2026052716421803001.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.1468.2026052716421806002",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165719.064"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.1468.2026052716421806002/1.3.46.670589.11.21347.5.0.1468.2026052716421803001.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779900983918.10",
+                    "SeriesNumber": "0",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "eT2W_TSE_TRA SENSE",
+                    "SeriesTime": "165339.00",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "755766419",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779900983918.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779900983918.10",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165721.268"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779900983918.10/1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779900983918.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.1220.2026052716395208002",
+                    "SeriesNumber": "303",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesTime": "163952.085",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "0",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.0.1220.2026052716395205001.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.1220.2026052716395208002",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165718.564"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.1220.2026052716395208002/1.3.46.670589.11.21347.5.0.1220.2026052716395205001.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716334298706",
+                    "SeriesNumber": "201",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "SURVEY_COR",
+                    "SeriesTime": "163342.98000",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 576,
+                                "Rows": 576,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.8664.2026052716334298706",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716334298706",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172901.495"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716334298706/1.3.46.670589.11.21347.5.24.5.1.8664.2026052716334298706"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 576,
+                                "Rows": 576,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "T1",
+                                    "NONE"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.8664.2026052716334298706",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716334298706",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 10,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172901.213"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716334298706/1.3.46.670589.11.21347.5.20.1.1.8664.2026052716334298706"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.15296.2026052716474708002",
+                    "SeriesNumber": "402",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesTime": "164747.083",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "0",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.0.15296.2026052716474706001.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.15296.2026052716474708002",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165720.549"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.15296.2026052716474708002/1.3.46.670589.11.21347.5.0.15296.2026052716474706001.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779900777793.2",
+                    "SeriesNumber": "0",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "T1W_TSE",
+                    "SeriesTime": "164744.76000",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779900777793.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779900777793.2",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172909.449"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779900777793.2/1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779900777793.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.18020.2026052716422296036",
+                    "SeriesNumber": "307",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "MobiView eT2W_TSE_SAG",
+                    "SeriesTime": "163952.05",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 640,
+                                "Rows": 1480,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "T2",
+                                    "MIXED"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.18020.2026052716422296036",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.18020.2026052716422296036",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 12,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165719.252"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.18020.2026052716422296036/1.3.46.670589.11.21347.5.20.1.1.18020.2026052716422296036"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716381198741",
+                    "SeriesNumber": "302",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "T2W_TSE_SAG",
+                    "SeriesTime": "163811.96000",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 576,
+                                "Rows": 576,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "T2",
+                                    "NONE"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.8664.2026052716381198741",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716381198741",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 12,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172903.682"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716381198741/1.3.46.670589.11.21347.5.20.1.1.8664.2026052716381198741"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 576,
+                                "Rows": 576,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.8664.2026052716381198741",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716381198741",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172903.964"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716381198741/1.3.46.670589.11.21347.5.24.5.1.8664.2026052716381198741"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.1220.2026052716395205000",
+                    "SeriesNumber": "305",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "eT2W_TSE_SAG",
+                    "SeriesTime": "163952.05",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 576,
+                                "Rows": 576,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "T2",
+                                    "ENHANCEMENT"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.1220.2026052716395205000",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.1220.2026052716395205000",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 12,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165718.283"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.1220.2026052716395205000/1.3.46.670589.11.21347.5.20.1.1.1220.2026052716395205000"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 576,
+                                "Rows": 576,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.1220.2026052716395205000",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.1220.2026052716395205000",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165718.580"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.1220.2026052716395205000/1.3.46.670589.11.21347.5.24.5.1.1220.2026052716395205000"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716533780836",
+                    "SeriesNumber": "701",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "T1W_TSE",
+                    "SeriesTime": "165336.72000",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 240,
+                                "Rows": 240,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "T1",
+                                    "NONE"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.8664.2026052716533780836",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716533780836",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 23,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172911.152"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716533780836/1.3.46.670589.11.21347.5.20.1.1.8664.2026052716533780836"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 240,
+                                "Rows": 240,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.8664.2026052716533780836",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716533780836",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172911.574"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716533780836/1.3.46.670589.11.21347.5.24.5.1.8664.2026052716533780836"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.12324.2026052716334420017",
+                    "SeriesNumber": "102",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesTime": "163344.201",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "0",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.0.12324.2026052716334416016.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.12324.2026052716334420017",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172901.166"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.12324.2026052716334420017/1.3.46.670589.11.21347.5.0.12324.2026052716334416016.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.15296.2026052716474705000",
+                    "SeriesNumber": "402",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "eSTIR_longTE",
+                    "SeriesTime": "164747.05",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 336,
+                                "Rows": 336,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.15296.2026052716474705000",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.15296.2026052716474705000",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165720.564"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.15296.2026052716474705000/1.3.46.670589.11.21347.5.24.5.1.15296.2026052716474705000"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 336,
+                                "Rows": 336,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "T2",
+                                    "ENHANCEMENT"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.15296.2026052716474705000",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.15296.2026052716474705000",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 15,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165720.377"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.15296.2026052716474705000/1.3.46.670589.11.21347.5.20.1.1.15296.2026052716474705000"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.12584.2026052716564701000",
+                    "SeriesNumber": "702",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "eT1W_TSE CLEAR",
+                    "SeriesTime": "165647.01",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 240,
+                                "Rows": 240,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.12584.2026052716564701000",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.12584.2026052716564701000",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165721.533"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.12584.2026052716564701000/1.3.46.670589.11.21347.5.24.5.1.12584.2026052716564701000"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 240,
+                                "Rows": 240,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "T1",
+                                    "ENHANCEMENT"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.12584.2026052716564701000",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.12584.2026052716564701000",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 23,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165721.705"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.12584.2026052716564701000/1.3.46.670589.11.21347.5.20.1.1.12584.2026052716564701000"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716501085811",
+                    "SeriesNumber": "601",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "T2W_TSE_TRA",
+                    "SeriesTime": "165010.83000",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 320,
+                                "Rows": 320,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "T2",
+                                    "NONE"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.8664.2026052716501085811",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716501085811",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 23,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172909.949"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716501085811/1.3.46.670589.11.21347.5.20.1.1.8664.2026052716501085811"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 320,
+                                "Rows": 320,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.8664.2026052716501085811",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716501085811",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172910.261"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716501085811/1.3.46.670589.11.21347.5.24.5.1.8664.2026052716501085811"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716381199034",
+                    "SeriesNumber": "0",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "DEFAULT PS SERIES",
+                    "SeriesTime": "163811",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716381199035.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716381199034",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172903.948"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.14040.2026052716381199034/1.3.46.670589.11.21347.5.0.14040.2026052716381199035.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.18056.2026052716533900000",
+                    "SeriesNumber": "602",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "eT2W_TSE_TRA SENSE",
+                    "SeriesTime": "165339.00",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 320,
+                                "Rows": 320,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.18056.2026052716533900000",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.18056.2026052716533900000",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165721.377"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.18056.2026052716533900000/1.3.46.670589.11.21347.5.24.5.1.18056.2026052716533900000"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 320,
+                                "Rows": 320,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "T2",
+                                    "ENHANCEMENT"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.18056.2026052716533900000",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.18056.2026052716533900000",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 23,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165721.049"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.18056.2026052716533900000/1.3.46.670589.11.21347.5.20.1.1.18056.2026052716533900000"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716334307030",
+                    "SeriesNumber": "0",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "DEFAULT PS SERIES",
+                    "SeriesTime": "163343",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716334309031.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716334307030",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172901.463"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.14040.2026052716334307030/1.3.46.670589.11.21347.5.0.14040.2026052716334309031.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716474565794",
+                    "SeriesNumber": "501",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "T1W_TSE",
+                    "SeriesTime": "164744.76000",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 384,
+                                "Rows": 384,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.8664.2026052716474565794",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716474565794",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172909.464"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716474565794/1.3.46.670589.11.21347.5.24.5.1.8664.2026052716474565794"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 384,
+                                "Rows": 384,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "T1",
+                                    "NONE"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.8664.2026052716474565794",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716474565794",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 13,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172909.324"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716474565794/1.3.46.670589.11.21347.5.20.1.1.8664.2026052716474565794"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716322120694",
+                    "SeriesNumber": "101",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "SURVEY_SAG",
+                    "SeriesTime": "163221.19000",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 576,
+                                "Rows": 576,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.8664.2026052716322120694",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716322120694",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172900.745"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716322120694/1.3.46.670589.11.21347.5.24.5.1.8664.2026052716322120694"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 576,
+                                "Rows": 576,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "T1",
+                                    "NONE"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.8664.2026052716322120694",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716322120694",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 10,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172900.510"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716322120694/1.3.46.670589.11.21347.5.20.1.1.8664.2026052716322120694"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.13356.2026052716572622004",
+                    "SeriesNumber": "0",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesTime": "165726.22",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.0.5",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.13356.2026052716572622004",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.13356.2026052716572622004",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165737.097"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.13356.2026052716572622004/1.3.46.670589.11.21347.5.24.5.1.13356.2026052716572622004"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.12324.2026052716334416015",
+                    "SeriesNumber": "102",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "MobiView SURVEY_SAG",
+                    "SeriesTime": "163221.19000",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 576,
+                                "Rows": 1115,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "T1",
+                                    "FOV_FUSION"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.12324.2026052716334416015",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.12324.2026052716334416015",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 5,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172900.854"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.12324.2026052716334416015/1.3.46.670589.11.21347.5.20.1.1.12324.2026052716334416015"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.11936.2026052716374212000",
+                    "SeriesNumber": "304",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "eT2W_TSE_SAG",
+                    "SeriesTime": "163742.12",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.11936.2026052716374212000",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.11936.2026052716374212000",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165718.127"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.11936.2026052716374212000/1.3.46.670589.11.21347.5.24.5.1.11936.2026052716374212000"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "T2",
+                                    "ENHANCEMENT"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.11936.2026052716374212000",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.11936.2026052716374212000",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 12,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165717.845"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.11936.2026052716374212000/1.3.46.670589.11.21347.5.20.1.1.11936.2026052716374212000"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779900552913",
+                    "SeriesNumber": "0",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "MobiView eT2W_TSE_SAG",
+                    "SeriesTime": "163952.05",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "0",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779900552898.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779900552913",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165720.252"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779900552913/1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779900552898.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716501088042",
+                    "SeriesNumber": "0",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "DEFAULT PS SERIES",
+                    "SeriesTime": "165010",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716501088043.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716501088042",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172910.230"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.14040.2026052716501088042/1.3.46.670589.11.21347.5.0.14040.2026052716501088043.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.17340.2026052716345015017",
+                    "SeriesNumber": "202",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesTime": "163450.153",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "0",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.0.17340.2026052716345012016.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.17340.2026052716345015017",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172903.182"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.17340.2026052716345015017/1.3.46.670589.11.21347.5.0.17340.2026052716345012016.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716441852777",
+                    "SeriesNumber": "401",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "STIR_longTE",
+                    "SeriesTime": "164418.50000",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 336,
+                                "Rows": 336,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "T2",
+                                    "NONE"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.8664.2026052716441852777",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716441852777",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 15,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172908.683"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716441852777/1.3.46.670589.11.21347.5.20.1.1.8664.2026052716441852777"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 336,
+                                "Rows": 336,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.8664.2026052716441852777",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716441852777",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172908.855"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716441852777/1.3.46.670589.11.21347.5.24.5.1.8664.2026052716441852777"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.1468.2026052716421803000",
+                    "SeriesNumber": "306",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "eT2W_TSE_SAG",
+                    "SeriesTime": "164218.03",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 640,
+                                "Rows": 640,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "T2",
+                                    "ENHANCEMENT"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.1468.2026052716421803000",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.1468.2026052716421803000",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 12,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165718.721"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.1468.2026052716421803000/1.3.46.670589.11.21347.5.20.1.1.1468.2026052716421803000"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 640,
+                                "Rows": 640,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.1468.2026052716421803000",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.1468.2026052716421803000",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165719.096"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.1468.2026052716421803000/1.3.46.670589.11.21347.5.24.5.1.1468.2026052716421803000"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.11936.2026052716374213002",
+                    "SeriesNumber": "302",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesTime": "163742.136",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "0",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.0.11936.2026052716374212001.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.11936.2026052716374213002",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165718.095"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.11936.2026052716374213002/1.3.46.670589.11.21347.5.0.11936.2026052716374212001.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779901043159",
+                    "SeriesNumber": "0",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "MobiView eT2W_TSE_SAG",
+                    "SeriesTime": "163952.05",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "0",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779901043143.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779901043159",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172908.261"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779901043159/1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779901043143.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779901037986.2",
+                    "SeriesNumber": "0",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "eT1W_TSE CLEAR",
+                    "SeriesTime": "165647.01",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "601798806",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779901037986.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779901037986.2",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172911.918"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779901037986.2/1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779901037986.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716401997759",
+                    "SeriesNumber": "303",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "T2W_TSE_SAG",
+                    "SeriesTime": "164019.85000",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 640,
+                                "Rows": 640,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.8664.2026052716401997759",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716401997759",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172904.401"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716401997759/1.3.46.670589.11.21347.5.24.5.1.8664.2026052716401997759"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 640,
+                                "Rows": 640,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "T2",
+                                    "NONE"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.8664.2026052716401997759",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716401997759",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 12,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172904.104"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716401997759/1.3.46.670589.11.21347.5.20.1.1.8664.2026052716401997759"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716401999036",
+                    "SeriesNumber": "0",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "DEFAULT PS SERIES",
+                    "SeriesTime": "164019",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716402001037.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716401999036",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172904.386"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.14040.2026052716401999036/1.3.46.670589.11.21347.5.0.14040.2026052716402001037.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.4884.2026052716572187002",
+                    "SeriesNumber": "308",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "MobiView eT2W_TSE_SAG_165721.877",
+                    "SeriesTime": "165721.877",
+                    "AcquisitionDate": "20260527",
+                    "AcquisitionTime": "165722.909",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 1920,
+                                "Rows": 1200,
+                                "InstanceNumber": "-1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.7",
+                                "PhotometricInterpretation": "RGB",
+                                "BitsAllocated": 8,
+                                "BitsStored": 8,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 3,
+                                "HighBit": 7,
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.0.4884.2026052716572290003",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.4884.2026052716572187002",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165736.847"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.4884.2026052716572187002/1.3.46.670589.11.21347.5.0.4884.2026052716572290003"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716354903723",
+                    "SeriesNumber": "301",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "T2W_TSE_SAG",
+                    "SeriesTime": "163549.01000",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "ORIGINAL",
+                                    "PRIMARY",
+                                    "T2",
+                                    "NONE"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.8664.2026052716354903723",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716354903723",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 12,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172903.276"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716354903723/1.3.46.670589.11.21347.5.20.1.1.8664.2026052716354903723"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 512,
+                                "Rows": 512,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.8664.2026052716354903723",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.8664.2026052716354903723",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172903.542"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.8664.2026052716354903723/1.3.46.670589.11.21347.5.24.5.1.8664.2026052716354903723"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716533791044",
+                    "SeriesNumber": "0",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "DEFAULT PS SERIES",
+                    "SeriesTime": "165337",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716533791045.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716533791044",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172911.558"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.14040.2026052716533791044/1.3.46.670589.11.21347.5.0.14040.2026052716533791045.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.3704.2026052716500307000",
+                    "SeriesNumber": "502",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "eT1W_TSE CLEAR",
+                    "SeriesTime": "165003.07",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 384,
+                                "Rows": 384,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "T1",
+                                    "ENHANCEMENT"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.3704.2026052716500307000",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.3704.2026052716500307000",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 13,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165720.705"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.3704.2026052716500307000/1.3.46.670589.11.21347.5.20.1.1.3704.2026052716500307000"
+                        },
+                        {
+                            "metadata": {
+                                "Columns": 384,
+                                "Rows": 384,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.3704.2026052716500307000",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.3704.2026052716500307000",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165720.877"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.3704.2026052716500307000/1.3.46.670589.11.21347.5.24.5.1.3704.2026052716500307000"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779901011608.2",
+                    "SeriesNumber": "0",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "eT1W_TSE CLEAR",
+                    "SeriesTime": "165003.07",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "0",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779901011608.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779901011608.2",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165720.846"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779901011608.2/1.3.46.670589.11.0.0.51.4.57.0.21347.1.4916.1779901011608.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.2380.2026052716322100000",
+                    "SeriesNumber": "0",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesTime": "163221.00",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+                                "FrameOfReferenceUID": "1.3.46.670589.11.0.5",
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.24.5.1.2380.2026052716322100000",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.2380.2026052716322100000",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 1,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "165721.846"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.2380.2026052716322100000/1.3.46.670589.11.21347.5.24.5.1.2380.2026052716322100000"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716354906032",
+                    "SeriesNumber": "0",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "DEFAULT PS SERIES",
+                    "SeriesTime": "163549",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716354906033.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716354906032",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172903.526"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.14040.2026052716354906032/1.3.46.670589.11.21347.5.0.14040.2026052716354906033.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716441855038",
+                    "SeriesNumber": "0",
+                    "Modality": "PR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "DEFAULT PS SERIES",
+                    "SeriesTime": "164418",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.11.1",
+                                "Modality": "PR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716441855039.1",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.14040.2026052716441855038",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172908.824"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.14040.2026052716441855038/1.3.46.670589.11.21347.5.0.14040.2026052716441855039.1"
+                        }
+                    ]
+                },
+                {
+                    "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.17340.2026052716345012015",
+                    "SeriesNumber": "202",
+                    "Modality": "MR",
+                    "SeriesDate": "20260527",
+                    "SeriesDescription": "MobiView SURVEY_COR",
+                    "SeriesTime": "163342.98000",
+                    "instances": [
+                        {
+                            "metadata": {
+                                "Columns": 576,
+                                "Rows": 1115,
+                                "InstanceNumber": "1",
+                                "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4.1",
+                                "PhotometricInterpretation": "MONOCHROME2",
+                                "BitsAllocated": 16,
+                                "BitsStored": 12,
+                                "PixelRepresentation": 0,
+                                "SamplesPerPixel": 1,
+                                "HighBit": 11,
+                                "FrameOfReferenceUID": "1.3.46.670589.11.21347.5.0.15800.2026052716250113004",
+                                "ImageType": [
+                                    "DERIVED",
+                                    "PRIMARY",
+                                    "T1",
+                                    "FOV_FUSION"
+                                ],
+                                "Modality": "MR",
+                                "SOPInstanceUID": "1.3.46.670589.11.21347.5.20.1.1.17340.2026052716345012015",
+                                "SeriesInstanceUID": "1.3.46.670589.11.21347.5.0.17340.2026052716345012015",
+                                "StudyInstanceUID": "1.3.46.670589.11.21347.5.0.16052.2026052716321034006",
+                                "SeriesDate": "20260527",
+                                "NumberOfFrames": 5,
+                                "InstanceCreationDate": "20260527",
+                                "InstanceCreationTime": "172901.588"
+                            },
+                            "url": "dicomweb:https://objectstore.e2enetworks.net/somatiqpublic/1.3.46.670589.11.21347.5.0.16052.2026052716321034006/1.3.46.670589.11.21347.5.0.17340.2026052716345012015/1.3.46.670589.11.21347.5.20.1.1.17340.2026052716345012015"
+                        }
+                    ]
+                }
+            ],
+            "NumInstances": 58,
+            "Modalities": "MR,PR"
+        }
+    ]
+}
